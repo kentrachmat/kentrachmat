@@ -68,7 +68,7 @@ Hi! I'm Kent, a dedicated AI enthusiast with a strong background in Software Eng
 - 💬 Let's talk about **AI, Jazz, Movies**.
 
 ## My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[https://github.com/kentrachmat]&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[kentrachmat]&show_icons=true&theme=radical)
 
 ## Projects and Contributions
 
