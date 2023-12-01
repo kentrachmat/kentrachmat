@@ -67,11 +67,7 @@ Hi! I'm Kent, a dedicated AI enthusiast with a strong background in Software Eng
 - 👯 I’m looking to collaborate on projects involving **AI, Machine Learning, NLP, CV**.
 - 💬 Let's talk about **AI, Jazz, Movies**.
 
-## My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[kentrachmat]&show_icons=true&theme=radical)
-
 ## Projects and Contributions
-
 ### Auto-Survey Challenge ⭐
 In an ambitious collaboration with Google, I had the opportunity to work on the Auto-Survey Challenge under the supervision of Isabelle Guyon. This project was presented at the prestigious AutoML Conference and JDSE Conference in 2023. The core objective of the Auto-Survey Challenge was to innovate the process of generating and reviewing systematic overview papers in various academic and research domains. Leveraging the advanced capabilities of Large Language Models (LLMs). This initiative represented a significant stride in automating aspects of academic research, combining the latest in AI technology with scholarly needs.  
 
