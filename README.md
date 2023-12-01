@@ -1,7 +1,4 @@
 # Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=[https://github.com/kentrachmat].[https://github.com/kentrachmat])
-
 Hi! I'm Kent, a dedicated AI enthusiast with a strong background in Software Engineering. I am currently advancing my expertise in AI through my Master's degree at l'Université de Paris-Saclay, France 🇫🇷.
 
 ## Connect with Me
