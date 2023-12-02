@@ -65,5 +65,5 @@ Hello, I'm Kent – your friendly neighborhood coder! Enter at your own risk of 
 - 💬 Let's talk about **AI, Jazz, Movies**.
 - 🌐 Check out my website for projects and contributions **https://kentrachmat.github.io/**.
 
-![Kent's GitHub stats](https://github-readme-stats.vercel.app/api?username=kentrachmat&show_icons=true&theme=radical)
+<!-- ![Kent's GitHub stats](https://github-readme-stats.vercel.app/api?username=kentrachmat&show_icons=true&theme=radical) -->
 
