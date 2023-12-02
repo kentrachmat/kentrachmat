@@ -60,9 +60,10 @@ Hello, I'm Kent – your friendly neighborhood coder! Enter at your own risk of 
 ![AMPL](https://img.shields.io/badge/-AMPL-<COLOR_CODE>?style=flat-square&logoColor=white)
 
 ## About Me
-- 🔭 I’m currently working on **Challenges and Large Language Models**.
-- 🌱 I’m a Master's student in **Artificial Inteligence**.
+- 🔭 I’m currently working on **Open Source Projects, Challenges and Large Language Models**.
 - 👯 I’m looking to collaborate on projects involving **AI, Machine Learning, NLP, RL**.
 - 💬 Let's talk about **AI, Jazz, Movies**.
 - 🌐 Check out my website for projects and contributions **https://kentrachmat.github.io/**.
----
+
+![Kent's GitHub stats](https://github-readme-stats.vercel.app/api?username=kentrachmat&show_icons=true&theme=radical)
+
