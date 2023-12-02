@@ -58,7 +58,7 @@ Hello, I'm Kent – your friendly neighborhood coder! Enter at your own risk of 
 - 👯 I’m looking to collaborate on projects involving **AI, Machine Learning, NLP, RL**.
 - 💬 Let's talk about **AI, Jazz, Movies**.
 - 🌐 Check out my website for projects and contributions **https://kentrachmat.github.io/**.
-- 📞 Connect with Me [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benedictus-kent-rachmat-aa45661b6/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kentrachmat2001@gmail.com) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/312600830580752385) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/kentrachmat)
+- 📞 Connect with Me [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benedictus-kent-rachmat-aa45661b6/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kentrachmat2313@gmail.com) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/312600830580752385) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/kentrachmat)
 
 
 <!-- ![Kent's GitHub stats](https://github-readme-stats.vercel.app/api?username=kentrachmat&show_icons=true&theme=radical) -->
