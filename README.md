@@ -1,5 +1,5 @@
 # Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-Hi! I'm Kent, a dedicated ML/NLP engineer with a strong background in Software Engineering. I am currently advancing my expertise in AI through my Master's degree at l'Université de Paris-Saclay, France 🇫🇷.
+Hello, I'm Kent – your friendly neighborhood coder! Enter at your own risk of encountering endless loops of fun!
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benedictus-kent-rachmat-aa45661b6/)
@@ -58,8 +58,6 @@ Hi! I'm Kent, a dedicated ML/NLP engineer with a strong background in Software E
 ![Nmap](https://img.shields.io/badge/-Nmap-589636?style=flat-square&logo=Nmap&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![AMPL](https://img.shields.io/badge/-AMPL-<COLOR_CODE>?style=flat-square&logoColor=white)
-
-
 
 ## About Me
 - 🔭 I’m currently working on **Challenges and Large Language Models**.
