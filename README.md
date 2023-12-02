@@ -64,19 +64,8 @@ Hi! I'm Kent, a dedicated AI enthusiast with a strong background in Software Eng
 ## About Me
 - 🔭 I’m currently working on **Challenges and Large Language Models**.
 - 🌱 I’m a Master's student in **Artificial Inteligence**.
-- 👯 I’m looking to collaborate on projects involving **AI, Machine Learning, NLP, CV**.
+- 👯 I’m looking to collaborate on projects involving **AI, Machine Learning, NLP, RL**.
 - 💬 Let's talk about **AI, Jazz, Movies**.
+- 🌐 Check out my website for projects and contributions **https://kentrachmat.github.io/**.
 
-## Projects and Contributions
-### Auto-Survey Challenge ⭐
-In an ambitious collaboration with Google, I had the opportunity to work on the Auto-Survey Challenge under the supervision of Isabelle Guyon. This project was presented at the prestigious AutoML Conference and JDSE Conference in 2023. The core objective of the Auto-Survey Challenge was to innovate the process of generating and reviewing systematic overview papers in various academic and research domains. Leveraging the advanced capabilities of Large Language Models (LLMs). This initiative represented a significant stride in automating aspects of academic research, combining the latest in AI technology with scholarly needs.  
-
-[![arXiv Paper](https://img.shields.io/badge/arXiv-Paper-<COLOR_CODE>?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/pdf/2310.04480.pdf)
-[![Project Website](https://img.shields.io/badge/Visit-Project%20Website-<COLOR_CODE>?style=flat-square&logo=googlescholar&logoColor=white)](http://auto-survey.ml/)
-[![Code Source](https://img.shields.io/badge/Code-Source-<COLOR_CODE>?style=flat-square&logo=github&logoColor=white)](https://github.com/kentrachmat/public_ai_paper_challenge_codabench)
-
-
-### Gson Community Involvement
-I have contributed to Google's Gson community. Gson is a renowned Java library for converting Java Objects into JSON and back
-
-[![Code Source](https://img.shields.io/badge/Code-Source-<COLOR_CODE>?style=flat-square&logo=github&logoColor=white)](https://github.com/google/gson)
+---
