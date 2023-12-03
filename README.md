@@ -22,6 +22,9 @@ Hello, I'm Kent – your friendly neighborhood coder! Enter at your own risk of 
 ![Langchain](https://img.shields.io/badge/-Langchain-<COLOR_CODE>?style=flat-square&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-007ACC?style=flat-square&logoColor=white)
 ![Reinforcement Learning](https://img.shields.io/badge/-Reinforcement%20Learning-007ACC?style=flat-square&logoColor=white)
+![Graph Neural Network](https://img.shields.io/badge/-Graph%20Neural%20Network-FF5733?style=flat-square&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-28A745?style=flat-square&logoColor=white)
+![NLP](https://img.shields.io/badge/-NLP-FFC107?style=flat-square&logoColor=white)
 
 ### Software Engineering
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
