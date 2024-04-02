@@ -57,13 +57,7 @@ Hello, I'm Kent – your friendly neighborhood coder! Enter at your own risk of 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![AMPL](https://img.shields.io/badge/-AMPL-<COLOR_CODE>?style=flat-square&logoColor=white)
 
-## About Me
-- 🔭 I’m currently working on **Open Source Projects, Challenges and Large Language Models**.
-- 👯 I’m looking to collaborate on projects involving **AI, Machine Learning, NLP, RL**.
-- 💬 Let's talk about **AI, Jazz, Movies**.
-- 🌐 Check out my website for projects and contributions **https://kentrachmat.github.io/**.
-- 📞 Connect with Me [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benedictus-kent-rachmat-aa45661b6/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kentrachmat2313@gmail.com) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/312600830580752385) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/kentrachmat)
+🌐 Check out my website for more information **https://kentrachmat.github.io/**.
 
-
-<!-- ![Kent's GitHub stats](https://github-readme-stats.vercel.app/api?username=kentrachmat&show_icons=true&theme=radical) -->
+![Kent's GitHub stats](https://github-readme-stats.vercel.app/api?username=kentrachmat&show_icons=true&theme=radical)
 
