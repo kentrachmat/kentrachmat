@@ -1,5 +1,5 @@
 # Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-Hello, I'm Kent – your friendly neighborhood coder! Enter at your own risk of encountering endless loops of fun!
+Hello, I'm Kent – your friendly neighborhood coder!
 
 ## Skills
 ### AI
