@@ -1,6 +1,6 @@
 # Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 Hello, I'm Kent – your friendly neighborhood coder!
-
+<!--
 ## Skills
 ### AI
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
@@ -55,7 +55,7 @@ Hello, I'm Kent – your friendly neighborhood coder!
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=Wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/-Nmap-589636?style=flat-square&logo=Nmap&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![AMPL](https://img.shields.io/badge/-AMPL-<COLOR_CODE>?style=flat-square&logoColor=white)
+![AMPL](https://img.shields.io/badge/-AMPL-<COLOR_CODE>?style=flat-square&logoColor=white) -->
 
 🌐 Check out my website for more information **https://kentrachmat.github.io/**.
 
